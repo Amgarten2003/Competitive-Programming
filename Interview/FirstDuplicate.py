@@ -1,5 +1,5 @@
 # Asked by Google
-# Coded in 23/04/2022 - April 23, 2022.
+# Coded in 23/04/2022 - April 23, 2022
 
 
 def solution(a):
